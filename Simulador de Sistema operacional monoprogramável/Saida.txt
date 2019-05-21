@@ -1,0 +1,4 @@
+O tempo total do Processo CPU é: 5
+O tempo total do Processo ES é: 1
+Tempo Total dos Processos: 6
+Tempo de espera médio dos processos é : 2.0
